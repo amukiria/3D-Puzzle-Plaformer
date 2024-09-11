@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/amuki/Documents/Unreal Projects/DemoGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/amuki/Documents/Unreal Projects/DemoGame/Content/MyContent/DemoLevel.umap",
+				"C:/Users/amuki/Documents/Unreal Projects/DemoGame/Content/MyContent/DemoLevel_BuiltData.uasset",
+				"C:/Users/amuki/Documents/Unreal Projects/DemoGame/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/amuki/Documents/Unreal Projects/DemoGame/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/amuki/Documents/Unreal Projects/DemoGame/Content/MyContent/BP_Platform.uasset",
+				"C:/Users/amuki/Documents/Unreal Projects/DemoGame/Content/MyContent/BP_EnemySphere.uasset",
+				"C:/Users/amuki/Documents/Unreal Projects/DemoGame/Content/MyContent/BP_EndOfLevelDoor.uasset"
+			]
+		}
+	]
+}
